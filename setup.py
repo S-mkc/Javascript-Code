@@ -1,5 +1,5 @@
 from setuptools import setup
 
-name = "Javascript-Code"
+name = "javascript_code"
 
 setup()
